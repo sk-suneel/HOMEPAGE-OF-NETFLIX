@@ -67,5 +67,4 @@ There were many things that I got in touch for the first time. Like:
 - Form validation . It was a fun part until you know how to do it. Otherwise, it's really frustrating. I messed up many times while designing error messages but it was a good to go as I learned a lot. 
 
 ## Author
-
-- Twitter - [@priya_garg2](https://twitter.com/priya_garg2)
+SUNEEL KUMAR
